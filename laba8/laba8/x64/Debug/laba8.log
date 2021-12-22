@@ -1,0 +1,3 @@
+﻿  laba8.cpp
+C:\Users\Mary\source\repos\laba8\laba8\laba8.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  laba8.vcxproj -> C:\Users\Mary\source\repos\laba8\x64\Debug\laba8.exe
